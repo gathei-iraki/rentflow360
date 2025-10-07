@@ -7,7 +7,7 @@ import UseSticky from "@/hooks/UseSticky"
 import LoginModal from "@/modals/LoginModal"
 import Offcanvas from "./Menu/Offcanvas"
 
-import logo_1 from "@/assets/images/logo/logo_06.svg";
+import logo_1 from "@/assets/images/logo/rent-logo.png";
 
 const HeaderThree = () => {
    const { sticky } = UseSticky();

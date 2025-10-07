@@ -36,7 +36,7 @@ const review_data: DataType[] = [
    {
       id: 2,
       img: agencyDetailsImg_3,
-      title: "Rashed Kabir",
+      title: "Silvia Gathei",
       date: "13 Aug, 23",
       total_rating: "(4.9 Rating)",
       rating: ["star", "star", "star", "star", "star"],

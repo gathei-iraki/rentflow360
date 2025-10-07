@@ -39,7 +39,7 @@ const feedback_data: DataType[] = [
    {
       id: 3,
       img: feadbackImg_3,
-      title: "Rashed Kabir",
+      title: "Silvia Gathei",
       country: "Dhaka, BD",
       desc: "Efficient, knowledgeable, & made our home search a smooth experience. Highly recommended agency!",
       rating_count: 4.8,

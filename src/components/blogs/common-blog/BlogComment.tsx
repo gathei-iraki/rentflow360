@@ -20,7 +20,7 @@ const BlogComment = () => {
                <div className="comment position-relative reply-comment d-flex">
                   <Image src={commentImg_2} alt="" className="lazy-img user-avatar rounded-circle" />
                   <div className="comment-text">
-                     <div className="name fw-500">Rashed ka.</div>
+                     <div className="name fw-500">Silvia Gathei .</div>
                      <div className="date">29 Aug, 2023, 7:30pm</div>
                      <p>Lorem ipsum dolor sit amet consectetur. Feugiat suspendisse ipsum purus in pharetra
                         neque libero. Varius ut consectetur pellentesque</p>

@@ -43,7 +43,7 @@ const BlogDetailsArea = () => {
             <div className="row gx-xl-5">
                <div className="col-lg-8">
                   <div className="blog-post-meta mb-60 lg-mb-40">
-                     <div className="post-info"><Link href="/blog_02">Rashed Kabir .</Link> 6 min</div>
+                     <div className="post-info"><Link href="/blog_02">Silvia Gathei .</Link> 6 min</div>
                      <h3 className="blog-title">{title_1}</h3>
                   </div>
                </div>

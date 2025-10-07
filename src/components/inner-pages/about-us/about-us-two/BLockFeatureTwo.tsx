@@ -40,7 +40,7 @@ const BLockFeatureTwo = () => {
                <div className="row">
                   <div className="col-lg-6">
                      <div className="title-one md-mb-30 pe-xxl-4 wow fadeInLeft">
-                        <h2 className="font-garamond text-white star-shape">Easily Purchase, Sell, or Lease listings. <span className="star-shape"><Image src={featureShape_3} alt="" className="lazy-img" /></span></h2>
+                        <h2 className="font-garamond text-white star-shape">Easily Purchase or Rent listings. <span className="star-shape"><Image src={featureShape_3} alt="" className="lazy-img" /></span></h2>
                      </div>
                   </div>
                   <div className="col-xxl-5 col-lg-6 ms-auto">

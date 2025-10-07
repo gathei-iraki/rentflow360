@@ -40,7 +40,7 @@ const BlogForm = () => {
             <form onSubmit={handleSubmit(onSubmit)} className="mt-30">
                <div className="input-wrapper mb-30">
                   <label>Name*</label>
-                  <input {...register("name")} type="text" placeholder="Rashed Kabir" />
+                  <input {...register("name")} type="text" placeholder="Silvia Gathei" />
                   <p className="form_error">{errors.name?.message}</p>
                </div>
                <div className="input-wrapper mb-40">

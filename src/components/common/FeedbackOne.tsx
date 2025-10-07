@@ -26,7 +26,7 @@ const feedback_data: DataType[] = [
       id: 2,
       blockquote: (<>Found our dream home. Great <span>Business</span> with them. To thank you for excellent service. Will take again sure.</>),
       name: "Alina Wambui",
-      country: "Miami, USA",
+      country: "Kisumu",
       img: feedbackImg_2,
    },
    {

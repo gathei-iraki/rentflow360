@@ -37,7 +37,7 @@ const AgencyFormOne = ({ style }: any) => {
             <div className="col-12">
                <div className="input-box-two mb-30">
                   <div className="label">Title*</div>
-                  <input type="text" {...register("name")} placeholder="Rashed Kabir" className={`type-input ${style ? "" : "rounded-0"}`} />
+                  <input type="text" {...register("name")} placeholder="Silvia Gathei" className={`type-input ${style ? "" : "rounded-0"}`} />
                   <p className="form_error">{errors.name?.message}</p>
                </div>
             </div>

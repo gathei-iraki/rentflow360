@@ -7,7 +7,7 @@ import UseSticky from "@/hooks/UseSticky"
 import LoginModal from "@/modals/LoginModal"
 import HeaderSearchbar from "./Menu/HeaderSearchbar"
 
-import logo_1 from "@/assets/images/logo/logo_06.svg";
+import logo_1 from "@/assets/images/logo/rent-logo.png";
 
 const HeaderFour = () => {
 

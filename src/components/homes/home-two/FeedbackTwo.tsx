@@ -101,7 +101,6 @@ const FeedbackTwo = () => {
                <Image src={feedbackShape_3} alt="" className="lazy-img shapes shape_02" />
             </div>
          </div>
-         <BrandOne />
       </div>
    )
 }
