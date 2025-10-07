@@ -35,10 +35,8 @@ const BreadcrumbThree = ({ title, link, link_title, sub_title, style }: any) => 
                               <NiceSelect className="nice-select fw-normal"
                                  options={[
                                     { value: "apartments", text: "Buy Apartments" },
-                                    { value: "industrial", text: "Rent Industrial" },
-                                    { value: "condos", text: "Rent Condos" },
-                                    { value: "houses", text: "Sell Houses" },
-                                    { value: "villas", text: "Sell Villas" },
+                                    { value: "industrial", text: "Rent Apartments" },
+                                 
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -51,13 +49,13 @@ const BreadcrumbThree = ({ title, link, link_title, sub_title, style }: any) => 
                               <div className="label">Location</div>
                               <NiceSelect className="nice-select location fw-normal"
                                  options={[
-                                    { value: "dhaka", text: "Dhanmondi, Dhaka" },
-                                    { value: "germany", text: "Berlin, Germany" },
-                                    { value: "mexico", text: "Acapulco, Mexico" },
-                                    { value: "france", text: "Cannes, France" },
-                                    { value: "india", text: "Delhi, India" },
-                                    { value: "giza", text: "Giza, Egypt" },
-                                    { value: "cuba", text: "Havana, Cuba" },
+                                   { value: "nairobi", text: "Nairobi" },
+                                                { value: "juja", text: "Juja" },
+                                                { value: "mombasa", text: "Mombasa" },
+                                                { value: "kisumu", text: "Kisumu" },
+                                                { value: "nyeri", text: "Nyeri" },
+                                                { value: "kisii", text: "Kisii" },
+                                                { value: "meru", text: "Meru" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}

@@ -40,10 +40,8 @@ const DropdownFour = () => {
                               <NiceSelect className="nice-select fw-normal"
                                  options={[
                                     { value: "apartments", text: "Buy Apartments" },
-                                    { value: "condos", text: "Rent Condos" },
-                                    { value: "houses", text: "Sell Houses" },
-                                    { value: "industrial", text: "Rent Industrial" },
-                                    { value: "villas", text: "Sell Villas" },
+                                    { value: "plots", text: "Rent Apartments" },
+                                 
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -56,13 +54,13 @@ const DropdownFour = () => {
                               <div className="label">Location</div>
                               <NiceSelect className="nice-select location fw-normal"
                                  options={[
-                                    { value: "germany", text: "Berlin, Germany" },
-                                    { value: "dhaka", text: "Dhanmondi, Dhaka" },
-                                    { value: "mexico", text: "Acapulco, Mexico" },
-                                    { value: "france", text: "Cannes, France" },
-                                    { value: "india", text: "Delhi, India" },
-                                    { value: "giza", text: "Giza, Egypt" },
-                                    { value: "cuba", text: "Havana, Cuba" },
+                                   { value: "nairobi", text: "Nairobi" },
+                                                { value: "juja", text: "Juja" },
+                                                { value: "mombasa", text: "Mombasa" },
+                                                { value: "kisumu", text: "Kisumu" },
+                                                { value: "nyeri", text: "Nyeri" },
+                                                { value: "kisii", text: "Kisii" },
+                                                { value: "meru", text: "Meru" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -76,9 +74,9 @@ const DropdownFour = () => {
                               <NiceSelect
                                  className="nice-select fw-normal"
                                  options={[
-                                    { value: "1", text: "$10,000 - $200,000" },
-                                    { value: "2", text: "$20,000 - $300,000" },
-                                    { value: "3", text: "$30,000 - $400,000" },
+                                    { value: "1", text: "KES10,000 - KES200,000" },
+                                    { value: "2", text: "KES20,000 - KES300,000" },
+                                    { value: "3", text: "KES30,000 - KES400,000" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -103,11 +101,9 @@ const DropdownFour = () => {
                               <div className="label">I’m looking to...</div>
                               <NiceSelect className="nice-select fw-normal"
                                  options={[
-                                    { value: "houses", text: "Sell Houses" },
+                                    { value: "plots", text: "Rent Apartments" },
                                     { value: "apartments", text: "Buy Apartments" },
-                                    { value: "condos", text: "Rent Condos" },
-                                    { value: "industrial", text: "Rent Industrial" },
-                                    { value: "villas", text: "Sell Villas" },
+                                   
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -120,13 +116,13 @@ const DropdownFour = () => {
                               <div className="label">Location</div>
                               <NiceSelect className="nice-select location fw-normal"
                                  options={[
-                                    { value: "mexico", text: "Acapulco, Mexico" },
-                                    { value: "dhaka", text: "Dhanmondi, Dhaka" },
-                                    { value: "germany", text: "Berlin, Germany" },
-                                    { value: "france", text: "Cannes, France" },
-                                    { value: "india", text: "Delhi, India" },
-                                    { value: "giza", text: "Giza, Egypt" },
-                                    { value: "cuba", text: "Havana, Cuba" },
+                                   { value: "nairobi", text: "Nairobi" },
+                                                { value: "juja", text: "Juja" },
+                                                { value: "mombasa", text: "Mombasa" },
+                                                { value: "kisumu", text: "Kisumu" },
+                                                { value: "nyeri", text: "Nyeri" },
+                                                { value: "kisii", text: "Kisii" },
+                                                { value: "meru", text: "Meru" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -140,9 +136,9 @@ const DropdownFour = () => {
                               <NiceSelect
                                  className="nice-select fw-normal"
                                  options={[
-                                    { value: "1", text: "$10,000 - $200,000" },
-                                    { value: "2", text: "$20,000 - $300,000" },
-                                    { value: "3", text: "$30,000 - $400,000" },
+                                    { value: "1", text: "KES10,000 - KES200,000" },
+                                    { value: "2", text: "KES20,000 -  KES300,000" },
+                                    { value: "3", text: "KES30,000 - KES400,000" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -167,11 +163,9 @@ const DropdownFour = () => {
                               <div className="label">I’m looking to...</div>
                               <NiceSelect className="nice-select fw-normal"
                                  options={[
-                                    { value: "industrial", text: "Rent Industrial" },
+                                    { value: "plots", text: "Rent Apartments" },
                                     { value: "apartments", text: "Buy Apartments" },
-                                    { value: "condos", text: "Rent Condos" },
-                                    { value: "houses", text: "Sell Houses" },
-                                    { value: "villas", text: "Sell Villas" },
+                                   
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -184,13 +178,13 @@ const DropdownFour = () => {
                               <div className="label">Location</div>
                               <NiceSelect className="nice-select location fw-normal"
                                  options={[
-                                    { value: "germany", text: "Berlin, Germany" },
-                                    { value: "dhaka", text: "Dhanmondi, Dhaka" },
-                                    { value: "mexico", text: "Acapulco, Mexico" },
-                                    { value: "france", text: "Cannes, France" },
-                                    { value: "india", text: "Delhi, India" },
-                                    { value: "giza", text: "Giza, Egypt" },
-                                    { value: "cuba", text: "Havana, Cuba" },
+                                   { value: "nairobi", text: "Nairobi" },
+                                                { value: "juja", text: "Juja" },
+                                                { value: "mombasa", text: "Mombasa" },
+                                                { value: "kisumu", text: "Kisumu" },
+                                                { value: "nyeri", text: "Nyeri" },
+                                                { value: "kisii", text: "Kisii" },
+                                                { value: "meru", text: "Meru" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}
@@ -204,9 +198,9 @@ const DropdownFour = () => {
                               <NiceSelect
                                  className="nice-select fw-normal"
                                  options={[
-                                    { value: "1", text: "$10,000 - $200,000" },
-                                    { value: "2", text: "$20,000 - $300,000" },
-                                    { value: "3", text: "$30,000 - $400,000" },
+                                    { value: "1", text: "KES10,000 - KES200,000" },
+                                    { value: "2", text: "KES20,000 - KES300,000" },
+                                    { value: "3", text: "KES30,000 - KES400,000" },
                                  ]}
                                  defaultCurrent={0}
                                  onChange={selectHandler}

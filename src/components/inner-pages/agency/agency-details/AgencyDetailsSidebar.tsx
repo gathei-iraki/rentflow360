@@ -30,13 +30,13 @@ const AgencyDetailsSidebar = () => {
                      <div className="label">Location</div>
                      <NiceSelect className="nice-select rounded-0"
                         options={[
-                           { value: "01", text: "Dhanmondi, Dhaka" },
-                           { value: "02", text: "Acapulco, Mexico" },
-                           { value: "03", text: "Berlin, Germany" },
-                           { value: "04", text: "Cannes, France" },
-                           { value: "05", text: "Delhi, India" },
-                           { value: "06", text: "Giza, Egypt" },
-                           { value: "07", text: "Havana, Cuba" },
+                          { value: "nairobi", text: "Nairobi" },
+                                                { value: "juja", text: "Juja" },
+                                                { value: "mombasa", text: "Mombasa" },
+                                                { value: "kisumu", text: "Kisumu" },
+                                                { value: "nyeri", text: "Nyeri" },
+                                                { value: "kisii", text: "Kisii" },
+                                                { value: "meru", text: "Meru" },
                         ]}
                         defaultCurrent={0}
                         onChange={selectHandler}

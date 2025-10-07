@@ -37,7 +37,7 @@ const HeroBanner = () => {
                   <div className="col-lg-6 wow fadeInLeft">
                      <div className="mt-45">
                         <h1 className="hero-heading text-white fw-500">
-                           Buy, Sell & Rent.
+                           Buy.
                            <span className="d-block d-lg-inline-flex">
                               {banner_avatar.map((img, i) => (
                                  <Image key={i} src={img} alt="" className="lazy-img avatar" />

@@ -66,7 +66,7 @@ const ListingDropdownModal = ({
                                     <div className="col-md-6">
                                        <div className="input-box-one mb-35">
                                           <div className="label">Keyword</div>
-                                          <input onChange={handleSearchChange} type="text" placeholder="buy, home, loft, apartment" className="type-input" />
+                                          <input onChange={handleSearchChange} type="text" placeholder=" apartment" className="type-input" />
                                        </div>
                                     </div>
                                     <div className="col-md-6">
