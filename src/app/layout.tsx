@@ -19,7 +19,7 @@ export default function RootLayout({
         <meta property="og:site_name" content="HOZN" />
         <meta property="og:url" content="https://creativegigstf.com" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="HOZN - Real Estate React Next js" />
+        <meta property="og:title" content="RentFlow 360" />
         <meta name='og:image' content='images/assets/ogg.png' />
         {/* For IE  */}
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />

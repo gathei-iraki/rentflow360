@@ -5,9 +5,9 @@ import dotenv from "dotenv";
 dotenv.config();
 
 export const sequelize = new Sequelize({
-  database: "real_estate_db", // اسم قاعدة البيانات
+  database: "rent_flow_backend", 
   username: "postgres",       
-  password: "1572001",  // كلمة المرور الخاصة بك
+  password: "2002",  
   host: "127.0.0.1",
   dialect: "postgres",
   models: [User],
