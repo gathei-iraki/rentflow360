@@ -49,7 +49,7 @@ const ListingDropdownModal = ({
                                           <div className="label">Location</div>
                                           <NiceSelect className="nice-select location fw-normal"
                                              options={[
-                                                { value: "kasarani", text: "Kasarani" },
+                                                { value: "nairobi", text: "Nairobi" },
                                                 { value: "juja", text: "Juja" },
                                                 { value: "mombasa", text: "Mombasa" },
                                                 { value: "kisumu", text: "Kisumu" },
