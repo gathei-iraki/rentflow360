@@ -13,7 +13,7 @@ const AddressAndLocation = () => {
             <div className="col-12">
                <div className="dash-input-wrapper mb-25">
                   <label htmlFor="">Address*</label>
-                  <input type="text" placeholder="19 Yawkey Way" />
+                  <input type="text" placeholder="Kasarani" />
                </div>
             </div>
             <div className="col-lg-3">
@@ -95,14 +95,10 @@ const AddressAndLocation = () => {
             <div className="dash-input-wrapper mb-25">
                <label htmlFor="">Map Location*</label>
                <div className="position-relative">
-                  <input type="text" placeholder="XC23+6XC, Moiran, N105" />
+                  <input type="text" placeholder="Nairobi" />
                   <button className="location-pin tran3s"><Image src={locationImage} alt="" className="lazy-img m-auto" /></button>
                </div>
-               <div className="map-frame mt-30">
-                  <div className="gmap_canvas h-100 w-100">
-                     <iframe className="gmap_iframe h-100 w-100" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=dhaka collage&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
-                  </div>
-               </div>
+              
             </div>
          </div>
       </div>

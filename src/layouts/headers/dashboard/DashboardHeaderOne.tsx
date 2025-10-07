@@ -3,7 +3,7 @@ import Image from "next/image"
 import Link from "next/link";
 import { usePathname } from 'next/navigation'
 
-import dashboardLogo from "@/assets/images/logo/logo_01.svg";
+import dashboardLogo from "@/assets/images/logo/rent-logo.png";
 import dashboardIconActive_1 from "@/assets/images/dashboard/icon/icon_1_active.svg";
 import dashboardIcon_1 from "@/assets/images/dashboard/icon/icon_1.svg";
 import dashboardIconActive_2 from "@/assets/images/dashboard/icon/icon_2_active.svg";
@@ -64,7 +64,7 @@ const DashboardHeaderOne = ({ isActive, setIsActive }: any) => {
                   </Link></li>
                   <li className="bottom-line pt-30 lg-pt-20 mb-40 lg-mb-30"></li>
                   <li><div className="nav-title">Listing</div></li>
-                  <li className="plr"><Link href="/dashboard/properties-list" className={`d-flex w-100 align-items-center ${pathname === '/dashboard/properties-list' ? 'active' : ''}`}>
+                  <li className="plr"><Link href="/dashboard/properties-list" className={`d-flex w-100 align-items-center ${pathname === '/' ? 'active' : ''}`}>
                      <Image src={pathname === '/dashboard/properties-list' ? dashboardIconActive_6 : dashboardIcon_6} alt="" />
                      <span>My Properties</span>
                   </Link></li>

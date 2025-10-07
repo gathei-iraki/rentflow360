@@ -15,10 +15,10 @@ interface DataType {
 const message_data: DataType[] = [
    {
       id: 1,
-      name: "Jenny Rio.",
+      name: "Peter Kamau.",
       date: "Aug 22",
-      title: "Work inquiry from google.",
-      desc: "Hello, This is Jenny from google. We’r the largest online platform offer...",
+      title: "Apartment inquiry.",
+      desc: "Hello, Tasking for an apartment in Nairobi. Can you help me with..",
       icon: icon_1,
       class_name: "read border-0 pt-0"
    },
@@ -26,16 +26,16 @@ const message_data: DataType[] = [
       id: 2,
       name: "Hasan Islam.",
       date: "May 22",
-      title: "Product Designer Opportunities",
-      desc: "Hello, Greeting from Uber. Hope you doing great. I am approcing to you for..",
+      title: "Apartment inquiry.",
+      desc: "Hello, Tasking for an apartment in Nairobi. Can you help me with..",
       class_name: "primary"
    },
    {
       id: 3,
-      name: "Jakie Chan",
+      name: "Gia Maria",
       date: "July 22",
-      title: "Hunting Marketing Specialist",
-      desc: "Hello, This is Jannat from HuntX. We offer business solution to our client..",
+     title: "Apartment inquiry.",
+      desc: "Hello, Tasking for an apartment in Nairobi. Can you help me with..",
    },
 ]
 

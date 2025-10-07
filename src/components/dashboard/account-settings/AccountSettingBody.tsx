@@ -28,13 +28,13 @@ const AccountSettingBody = () => {
                      <div className="col-12">
                         <div className="dash-input-wrapper mb-20">
                            <label htmlFor="">Email</label>
-                           <input type="email" placeholder="rshakbair365@gmal.com" />
+                           <input type="email" placeholder="rentflow@gmal.com" />
                         </div>
                      </div>
                      <div className="col-12">
                         <div className="dash-input-wrapper mb-20">
                            <label htmlFor="">Phone Number</label>
-                           <input type="tel" placeholder="+810 321 889 021" />
+                           <input type="tel" placeholder="+254 000 000 021" />
                         </div>
                      </div>
                      <div className="col-12">

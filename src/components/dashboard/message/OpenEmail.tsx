@@ -1,14 +1,14 @@
 import Image from "next/image"
 import Link from "next/link"
 
-import logo_1 from "@/assets/images/dashboard/rent-logo.png"
-import icon_1 from "@/assets/images/dashboard/icon/icon_29.svg"
-import icon_2 from "@/assets/images/dashboard/icon/icon_30.svg"
-import icon_3 from "@/assets/images/dashboard/icon/icon_31.svg"
-import icon_4 from "@/assets/images/dashboard/icon/icon_32.svg"
-import icon_5 from "@/assets/images/dashboard/icon/icon_33.svg"
-import icon_6 from "@/assets/images/dashboard/icon/icon_34.svg"
-import icon_7 from "@/assets/images/dashboard/icon/icon_35.svg"
+import logo_1 from "@/assets/images/logo/rent-logo.png"
+import icon_1 from "@/assets/images/logo/rent-logo.png"
+import icon_2 from "@/assets/images/logo/rent-logo.png"
+import icon_3 from "@/assets/images/logo/rent-logo.png"
+import icon_4 from "@/assets/images/logo/rent-logo.png"
+import icon_5 from "@/assets/images/logo/rent-logo.png"
+import icon_6 from "@/assets/images/logo/rent-logo.png"
+import icon_7 from "@/assets/images/logo/rent-logo.png"
 
 const OpenEmail = () => {
    return (
