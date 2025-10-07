@@ -102,7 +102,7 @@ const footer_data: DataType[] = [
       widget_class: "col-lg-2",
       page: "home_5",
       widget_title: "New Listing",
-      footer_link: [{ link: "/listing_01", link_title: "​Buy Apartments" }, { link: "/listing_02", link_title: "Buy Condos" }, { link: "listing_03", link_title: "Rent Houses" }, { link: "listing_04", link_title: "Rent Industrial" }, { link: "/listing_05", link_title: "Buy Villas" }, { link: "/listing_06", link_title: "Rent Office" },]
+      footer_link: [{ link: "/listing_01", link_title: "​Buy Apartments" }, { link: "/listing_02", link_title: "Rent Apartments" }, ]
    },
 ]
 
