@@ -26,7 +26,6 @@ const HomeFour = () => {
       <Brand />
       <Blog />
       <AddressBanner style={false} />
-      <FancyBanner style={false} />
       <FooterThree />
     </>
   )

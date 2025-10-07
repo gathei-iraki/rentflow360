@@ -15,26 +15,19 @@ interface DataType {
 }
 
 const feedback_data: DataType[] = [
-   {
+    {
       id: 1,
       blockquote: (<>Quick solutions coupled with extraordinary <span>performance</span> a recommendation that&apos;s unequivocal.</>),
-      name: "Musa Delimuza",
-      country: "Miami, USA",
+      name: "Ken Odhiambo",
+      country: "Nairobi",
       img: feedbackImg_1,
    },
    {
       id: 2,
       blockquote: (<>Found our dream home. Great <span>Business</span> with them. To thank you for excellent service. Will take again sure.</>),
-      name: "Alina Cruse",
+      name: "Alina Wambui",
       country: "Miami, USA",
       img: feedbackImg_2,
-   },
-   {
-      id: 3,
-      blockquote: (<>Efficient and friendly service, guided us <span>perfectly</span> I am satisfied with our new home.Give a try. Thank you!</>),
-      name: "Musa Delimuza",
-      country: "Rashed Ka.",
-      img: feedbackImg_3,
    },
 ]
 

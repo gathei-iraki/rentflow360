@@ -23,22 +23,22 @@ const feedback_data: DataType[] = [
    {
       id: 1,
       desc: (<>&quot;Excellent service, made my dream home real. <span>highly recommended</span> real estate agency!&quot;</>),
-      title: "Musa Delimuza",
-      country: "Milan, Italy",
+      title: "Hassan Raj",
+      country: "Mombasa",
       thumb: feedbackThumb_1,
    },
    {
       id: 2,
       desc: (<>&quot;Excellent service, made my dream home real. <span>highly recommended</span> real estate agency!&quot;</>),
       title: "Zubayer Hasan",
-      country: "Milan, Italy",
+      country: "Mombasa",
       thumb: feedbackThumb_2,
    },
    {
       id: 3,
       desc: (<>&quot;Excellent service, made my dream home real. <span>highly recommended</span> real estate agency!&quot;</>),
-      title: "Rashed Ka",
-      country: "Milan, Italy",
+      title: "Ray Ken",
+      country: "Juja",
       thumb: feedbackThumb_3,
    },
 ]

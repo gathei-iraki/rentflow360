@@ -8,7 +8,6 @@ const BlogDetails = () => {
       <>
          <HeaderFour />
          <BlogDetailsArea />
-         <FancyBanner />
          <FooterFour />
       </>
    )

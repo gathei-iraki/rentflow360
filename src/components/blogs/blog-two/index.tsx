@@ -10,7 +10,6 @@ const BlogTwo = () => {
          <HeaderFour />
          <BreadcrumbThree title="Blog List" link="#" link_title="Pages" sub_title="Blog" style={false} />
          <BlogTwoArea />
-         <FancyBanner />
          <FooterFour />
       </>
    )

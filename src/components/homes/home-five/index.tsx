@@ -24,11 +24,9 @@ const HomeFive = () => {
          <BLockFeatureTwo style={false} />
          <BLockFeatureThree />
          <BLockFeatureFour />
-         <FancyBannerOne style={true} />
          <AgentArea style={true} />
          <Feedback style={false} />
          <AddressBanner style={true} />
-         <FancyBanner style={true} />
          <FooterFour />
       </>
    )
