@@ -47,13 +47,13 @@ const project_data: DataType[] = [
       id: 1,
       page: "project_1",
       thumb: projectThumb_1,
-      category: "house flat"
+      category: "apartments"
    },
    {
       id: 2,
       page: "project_1",
       thumb: projectThumb_2,
-      category: "villa"
+      category: "plots"
    },
    {
       id: 3,
@@ -65,37 +65,37 @@ const project_data: DataType[] = [
       id: 4,
       page: "project_1",
       thumb: projectThumb_4,
-      category: "villa"
+      category: "plots"
    },
    {
       id: 5,
       page: "project_1",
       thumb: projectThumb_5,
-      category: "house"
+      category: "apartments"
    },
    {
       id: 6,
       page: "project_1",
       thumb: projectThumb_6,
-      category: "apartments flat"
+      category: "plots"
    },
    {
       id: 7,
       page: "project_1",
       thumb: projectThumb_7,
-      category: "villa"
+      category: "apartments"
    },
    {
       id: 8,
       page: "project_1",
       thumb: projectThumb_8,
-      category: "apartments"
+      category: "plots"
    },
    {
       id: 9,
       page: "project_1",
       thumb: projectThumb_9,
-      category: "house flat"
+      category: "apartments"
    },
 
    // project_2
@@ -104,37 +104,37 @@ const project_data: DataType[] = [
       id: 1,
       page: "project_2",
       thumb: projectThumb_10,
-      category: "house flat"
+      category: "plots"
    },
    {
       id: 2,
       page: "project_2",
       thumb: projectThumb_11,
-      category: "villa"
+      category: "apartments"
    },
    {
       id: 3,
       page: "project_2",
       thumb: projectThumb_12,
-      category: "apartments"
+      category: "plots"
    },
    {
       id: 4,
       page: "project_2",
       thumb: projectThumb_13,
-      category: "villa"
+      category: "apartments"
    },
    {
       id: 5,
       page: "project_2",
       thumb: projectThumb_14,
-      category: "house"
+      category: "plots"
    },
    {
       id: 6,
       page: "project_2",
       thumb: projectThumb_15,
-      category: "apartments flat"
+      category: "apartments"
    },
 
    // project_3
@@ -143,20 +143,20 @@ const project_data: DataType[] = [
       id: 1,
       page: "project_3",
       thumb: projectThumb_16,
-      category: "house flat",
-      title:"Blue Duplex Villa",
-      date:"13 Sep, 23",
-      tag:"VILLA",
+      category: "apartments",
+      title:"Blue Duplex Apartments",
+      date:"1 Sep, 25",
+      tag:"APARTMENT",
       fancybox:"16",
    },
    {
       id: 2,
       page: "project_3",
       thumb: projectThumb_17,
-      category: "villa",
-      title:"1320sft Modern Flat",
-      date:"15 Sep, 23",
-      tag:"FLAT",
+      category: "plots",
+      title:"2B Katheu Apartment",
+      date:"15 Jan, 25",
+      tag:"APARTMENT",
       fancybox:"17",
    },
    {
@@ -164,8 +164,8 @@ const project_data: DataType[] = [
       page: "project_3",
       thumb: projectThumb_18,
       category: "apartments",
-      title:"Galaxy Sky Touch",
-      date:"17 Sep, 23",
+      title:"Mugendi Sky Touch",
+      date:"2 Feb, 25",
       tag:"APARTMENTS",
       fancybox:"18",
    },
@@ -173,30 +173,30 @@ const project_data: DataType[] = [
       id: 4,
       page: "project_3",
       thumb: projectThumb_19,
-      category: "villa",
-      title:"Apartments Vintage City",
-      date:"19 Sep, 23",
-      tag:"HOUSE",
+      category: "plots",
+      title:"Vintage Kirui City",
+      date:"19 Mar, 25",
+      tag:"APARTMENT",
       fancybox:"19",
    },
    {
       id: 5,
       page: "project_3",
       thumb: projectThumb_20,
-      category: "house",
-      title:"2-Stored House",
-      date:"21 Sep, 23",
-      tag:"FLAT",
+      category: "apartments",
+      title:"Jamii House",
+      date:"15 May, 25",
+      tag:"APARTMENT",
       fancybox:"20",
    },
    {
       id: 6,
       page: "project_3",
       thumb: projectThumb_21,
-      category: "apartments flat",
-      title:"Swimming Pool Villa",
-      date:"23 Sep, 23",
-      tag:"VILLA",
+      category: "apartments",
+      title:"Kitenge Villa",
+      date:"2 Jun, 25",
+      tag:"APARTMENT",
       fancybox:"21",
    },
 
@@ -207,8 +207,8 @@ const project_data: DataType[] = [
       page: "project_4",
       thumb: projectThumb_22,
       fancybox:"22",
-      category: "house",
-      title:"Apartments On Vintage City.",
+      category: "plots",
+      title:"Apartments On Vintage Kirui City.",
       desc:"Your leading real estate advocate, transforming houses into dreams. Trust",
    },
    {
@@ -216,8 +216,8 @@ const project_data: DataType[] = [
       page: "project_4",
       thumb: projectThumb_23,
       fancybox:"23",
-      category: "villa",
-      title:"Galaxy Touch Sky Villa.",
+      category: "apartments",
+      title:"Mugendi Sky Touch Sky.",
       desc:"Your leading real estate advocate, transforming houses into dreams. Trust",
    },
    {
@@ -226,25 +226,25 @@ const project_data: DataType[] = [
       thumb: projectThumb_24,
       category: "apartments",
       fancybox:"24",
-      title:"2370sft Modern Apartments.",
+      title:"Blue Duplex Apartments.",
       desc:"Your leading real estate advocate, transforming houses into dreams. Trust",
    },
    {
       id: 4,
       page: "project_4",
       thumb: projectThumb_25,
-      category: "flat",
+      category: "plots",
       fancybox:"25",
-      title:"2 Store Tiny Duplex House.",
+      title:"2B Katheu Apartments.",
       desc:"Your leading real estate advocate, transforming houses into dreams. Trust",
    },
    {
       id: 5,
       page: "project_4",
       thumb: projectThumb_26,
-      category: "house",
+      category: "apartments",
       fancybox:"26",
-      title:"Swimming Pool Duplex Villa.",
+      title:"Kitenge Villa.",
       desc:"Your leading real estate advocate, transforming houses into dreams. Trust",
    },
 ]
